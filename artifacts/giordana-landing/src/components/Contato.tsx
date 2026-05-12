@@ -100,7 +100,7 @@ export function Contato() {
           <Button
             asChild
             size="lg"
-            className="bg-primary hover:bg-primary/90 text-primary-foreground px-10 py-6 text-base font-semibold rounded-sm tracking-widest uppercase transition-transform hover:scale-[1.02]"
+            className="bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-5 md:px-10 md:py-6 text-base font-semibold rounded-sm tracking-widest uppercase transition-transform hover:scale-[1.02] w-full sm:w-auto whitespace-normal h-auto"
           >
             <a href={WHATSAPP_URL} target="_blank" rel="noreferrer">
               Solicitar análise do meu caso
