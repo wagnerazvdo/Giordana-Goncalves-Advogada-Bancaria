@@ -25,12 +25,13 @@ export function Navbar() {
       }`}
     >
       <div className="container mx-auto px-4 md:px-8 flex items-center justify-between">
-        <a href="#" aria-label="Giordana Gonçalves Advocacia" className="block w-16 h-16 overflow-hidden">
-          <img
-            src="/logo-gg.png"
-            alt="Giordana Gonçalves Advocacia"
-            className="w-full scale-[2.2] translate-y-[18%] object-top"
-          />
+        <a href="#" className="flex flex-col" aria-label="Giordana Gonçalves Advocacia">
+          <span className="font-serif text-xl font-semibold tracking-wide text-white">
+            GIORDANA GONÇALVES
+          </span>
+          <span className="text-[10px] tracking-widest text-primary uppercase mt-0.5">
+            Advocacia Bancária
+          </span>
         </a>
 
         <div className="hidden md:flex items-center space-x-8">
