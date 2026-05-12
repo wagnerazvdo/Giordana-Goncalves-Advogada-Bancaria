@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Link } from "wouter";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
@@ -26,14 +25,13 @@ export function Navbar() {
       }`}
     >
       <div className="container mx-auto px-4 md:px-8 flex items-center justify-between">
-        <div className="flex flex-col">
-          <span className="font-serif text-xl font-semibold tracking-wide text-white">
-            GIORDANA GONÇALVES
-          </span>
-          <span className="text-[10px] tracking-widest text-primary uppercase mt-0.5">
-            Advocacia Bancária
-          </span>
-        </div>
+        <a href="#" aria-label="Giordana Gonçalves Advocacia">
+          <img
+            src="/logo-gg.png"
+            alt="Giordana Gonçalves Advocacia"
+            className="h-16 w-auto"
+          />
+        </a>
 
         <div className="hidden md:flex items-center space-x-8">
           <a href="#sobre" className="text-sm text-gray-300 hover:text-white transition-colors">

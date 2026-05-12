@@ -9,9 +9,12 @@ export function Footer() {
       <div className="container mx-auto px-4 md:px-8 max-w-6xl">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
           <div>
-            <span className="font-serif text-2xl text-white block mb-2">Giordana Gonçalves</span>
-            <span className="text-primary text-sm tracking-[0.2em] uppercase">Direito Bancário</span>
-            <p className="text-gray-500 font-light mt-4 text-sm max-w-sm">
+            <img
+              src="/logo-gg.png"
+              alt="Giordana Gonçalves Advocacia"
+              className="h-32 w-auto mb-4 opacity-90"
+            />
+            <p className="text-gray-500 font-light mt-2 text-sm max-w-sm">
               Atendimento digital em todo o Brasil. Defesa estratégica em conflitos bancários e revisão de contratos.
             </p>
             <p className="text-gray-600 font-light mt-2 text-xs">
