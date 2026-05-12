@@ -1,0 +1,335 @@
+Crie uma landing page premium, moderna, sofisticada e altamente profissional para uma advogada especialista em Direito Bancário chamada Giordana Gonçalves.
+
+OBJETIVO PRINCIPAL:
+Converter visitantes em contatos qualificados via WhatsApp.
+
+ESTILO VISUAL:
+- Elegante
+- Minimalista
+- Sofisticado
+- Feminino com autoridade
+- Moderna
+- Visual premium
+- Muito bem espaçada
+- Clean
+- Alto padrão
+- Sem aparência genérica
+
+PALETA DE CORES:
+- Preto
+- Branco
+- Cinza frio
+- Azul-marinho
+- Marsala/Vinho
+- Detalhes discretos em dourado/chumbo
+
+TIPOGRAFIA:
+- Moderna
+- Refinada
+- Profissional
+- Forte nos títulos
+- Excelente legibilidade
+
+ESTRUTURA:
+Landing page de alta conversão com animações suaves, responsiva, carregamento rápido e UX moderna.
+
+Adicionar efeito glassmorphism leve e sombras suaves premium.
+
+A landing page deve transmitir:
+- Autoridade jurídica
+- Segurança
+- Estratégia
+- Sofisticação
+- Clareza
+- Confiança
+
+IMPORTANTE:
+- NÃO usar linguagem apelativa
+- NÃO prometer resultados
+- NÃO usar frases milagrosas
+- NÃO usar aparência exagerada de marketing
+- Linguagem técnica, humana e elegante
+
+A página deve conter:
+
+==================================================
+SEÇÃO HERO (PRIMEIRA DOBRA)
+==================================================
+
+Layout dividido em 2 colunas:
+- Lado esquerdo: copy forte + CTA
+- Lado direito: foto profissional da advogada (usar imagem que será enviada)
+
+Adicionar fundo sofisticado com detalhes abstratos discretos.
+
+HEADLINE:
+"Advocacia Bancária estratégica para revisão de financiamentos e defesa em busca e apreensão"
+
+SUBHEADLINE:
+"Atuação focada na análise de contratos de financiamento de veículos, juros abusivos, cobranças indevidas e defesa técnica em conflitos com bancos e financeiras."
+
+Adicionar badges premium:
+- Atendimento Nacional
+- Atendimento Digital
+- Análise Técnica Individual
+
+BOTÕES CTA:
+- Solicitar análise do meu caso
+- Falar com a advogada
+
+Os botões devem abrir WhatsApp.
+
+Adicionar pequeno aviso:
+"Cada caso exige análise técnica individualizada."
+
+==================================================
+SEÇÃO SOBRE
+==================================================
+
+Título:
+"Sobre Giordana Gonçalves"
+
+Texto:
+"Giordana Gonçalves é advogada com atuação focada em Direito Bancário, especialmente em revisão de contratos de financiamento de veículos e defesa em ações de busca e apreensão.
+
+Seu trabalho combina análise técnica, estratégia jurídica, clareza na comunicação e atendimento humanizado, auxiliando consumidores que enfrentam dificuldades com bancos, financeiras e contratos abusivos."
+
+Adicionar:
+- Foto profissional elegante
+- Card premium com:
+  - Direito Bancário
+  - Revisão Contratual
+  - Defesa em Busca e Apreensão
+  - Atendimento Estratégico
+
+==================================================
+SEÇÃO ÁREAS DE ATUAÇÃO
+==================================================
+
+Criar cards premium modernos com ícones minimalistas.
+
+CARD 1:
+Título:
+"Revisão de Contrato de Financiamento"
+
+Texto:
+"Análise técnica de contratos para identificação de juros abusivos, cobranças indevidas, tarifas embutidas, capitalização irregular e cláusulas excessivamente onerosas."
+
+Lista:
+- Juros abusivos
+- CET elevado
+- Tarifas ocultas
+- Encargos indevidos
+- Estratégia jurídica personalizada
+
+CARD 2:
+Título:
+"Defesa em Busca e Apreensão"
+
+Texto:
+"Atuação técnica em casos de apreensão ou risco de perda do veículo, com análise da notificação, encargos, mora contratual e possíveis irregularidades processuais."
+
+Lista:
+- Defesa técnica
+- Análise da notificação
+- Estratégia processual
+- Revisão contratual
+- Recuperação do veículo quando cabível
+
+==================================================
+SEÇÃO DOR DO CLIENTE
+==================================================
+
+Título:
+"Você pode precisar de uma análise jurídica se:"
+
+Criar grid elegante com ícones modernos:
+
+- As parcelas estão pesando demais
+- Você suspeita de juros abusivos
+- Recebeu notificação do banco
+- Seu veículo foi apreendido
+- O banco não aceitou negociação
+- Você teme perder o veículo
+- Existem cobranças que você não entende
+- A dívida parece nunca diminuir
+
+==================================================
+SEÇÃO COMO FUNCIONA
+==================================================
+
+Criar timeline premium horizontal (desktop) e vertical (mobile).
+
+Título:
+"Como funciona a análise do seu caso"
+
+ETAPAS:
+
+1. Primeiro contato
+"O cliente explica brevemente sua situação pelo WhatsApp."
+
+2. Coleta de informações
+"Análise inicial de contrato, parcelas, banco e situação atual."
+
+3. Análise técnica
+"Avaliação jurídica dos juros, encargos e possíveis abusividades."
+
+4. Estratégia jurídica
+"Explicação clara sobre possibilidades, riscos e caminhos jurídicos."
+
+5. Atuação
+"Início das medidas jurídicas adequadas ao caso, quando houver viabilidade."
+
+==================================================
+SEÇÃO DIFERENCIAIS
+==================================================
+
+Título:
+"Por que contar com uma atuação especializada?"
+
+Criar cards premium com hover elegante:
+
+- Atendimento humanizado
+- Atuação focada em Direito Bancário
+- Estratégia individualizada
+- Comunicação clara
+- Atendimento digital moderno
+- Análise técnica detalhada
+- Postura profissional transparente
+- Atuação nacional
+
+==================================================
+SEÇÃO BUSCA E APREENSÃO (DESTAQUE)
+==================================================
+
+Criar seção visual forte e sofisticada.
+
+Título:
+"O seu veículo foi apreendido pelo banco?"
+
+Subtítulo:
+"Assessoria jurídica especializada em ações de busca e apreensão."
+
+Texto:
+"Na busca e apreensão, cada detalhe importa: contrato, juros cobrados, notificação e procedimento adotado pelo banco precisam ser analisados tecnicamente."
+
+Adicionar CTA grande:
+"Falar com um especialista"
+
+Adicionar cards:
+- Análise da notificação
+- Defesa técnica
+- Estratégia jurídica
+- Avaliação contratual
+
+==================================================
+SEÇÃO FAQ
+==================================================
+
+Criar accordion elegante premium.
+
+Perguntas:
+
+1. Todo contrato pode ser revisado?
+"Cada contrato precisa ser analisado individualmente para verificar possíveis abusividades."
+
+2. A revisão impede a busca e apreensão?
+"Depende da situação jurídica e contratual de cada caso."
+
+3. Meu veículo já foi apreendido. Ainda posso me defender?
+"Sim, é possível analisar o processo e verificar eventuais irregularidades."
+
+4. O banco pode continuar cobrando após a apreensão?
+"Dependendo da situação, pode existir saldo remanescente."
+
+5. Preciso ter o contrato em mãos?
+"O ideal é possuir o contrato, mas existem alternativas para obtenção do documento."
+
+==================================================
+SEÇÃO DEPOIMENTOS
+==================================================
+
+Criar área premium de depoimentos em cards modernos.
+
+Usar depoimentos fictícios elegantes e discretos:
+- Nome abreviado
+- Cidade
+- Sem exageros
+- Linguagem natural
+
+==================================================
+SEÇÃO CTA FINAL
+==================================================
+
+Criar seção visual forte.
+
+Headline:
+"O prazo para agir pode ser decisivo no seu caso."
+
+Texto:
+"Conte com uma atuação estratégica em Direito Bancário para analisar sua situação com clareza e segurança."
+
+Botão grande:
+"Solicitar análise do meu caso"
+
+==================================================
+FOOTER
+==================================================
+
+Footer sofisticado contendo:
+- Nome da advogada
+- Direito Bancário
+- Atendimento digital
+- WhatsApp
+- Instagram
+- Aviso:
+"Cada caso possui particularidades e exige análise jurídica individualizada."
+
+==================================================
+REQUISITOS TÉCNICOS
+==================================================
+
+- Design extremamente responsivo
+- Mobile first
+- Performance otimizada
+- SEO básico
+- Estrutura semântica
+- Animações suaves
+- Hover effects elegantes
+- Scroll animations discretas
+- Navbar transparente no topo
+- CTA fixo no mobile
+- Botão flutuante do WhatsApp
+- Layout premium estilo escritório boutique
+- Usar Tailwind CSS
+- Componentização organizada
+- Código limpo
+- Estrutura moderna
+- Alto padrão visual
+
+==================================================
+IMPORTANTE
+==================================================
+
+Evitar:
+- Aparência de página apelativa
+- Excesso de cores
+- Excesso de texto visualmente pesado
+- Marketing agressivo
+- Promessas de ganho
+- Sensacionalismo jurídico
+
+Priorizar:
+- Elegância
+- Sofisticação
+- Clareza
+- Conversão
+- Autoridade
+- Confiança
+- Visual premium
+
+Preparar espaço para:
+- Foto profissional da advogada
+- Link do WhatsApp
+- Instagram
+- Depoimentos
