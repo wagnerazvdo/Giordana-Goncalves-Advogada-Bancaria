@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 
 export function MobileCTA() {
-  const whatsappUrl = "https://wa.me/5500000000000";
+  const whatsappUrl = "https://wa.me/558391325605";
 
   return (
     <div className="md:hidden fixed bottom-0 left-0 right-0 p-4 bg-background/95 backdrop-blur-md border-t border-white/10 z-50 pb-safe">

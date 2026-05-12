@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 
 export function Hero() {
-  const whatsappUrl = "https://wa.me/5500000000000";
+  const whatsappUrl = "https://wa.me/558391325605";
 
   return (
     <section className="relative min-h-[100dvh] flex items-center pt-24 pb-12 md:py-0 overflow-hidden bg-[#0A0A0F]">

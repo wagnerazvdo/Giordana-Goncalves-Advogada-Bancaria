@@ -15,7 +15,7 @@ export function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const whatsappUrl = "https://wa.me/5500000000000";
+  const whatsappUrl = "https://wa.me/558391325605";
 
   return (
     <nav
@@ -47,6 +47,9 @@ export function Navbar() {
           </a>
           <a href="#faq" className="text-sm text-gray-300 hover:text-white transition-colors">
             FAQ
+          </a>
+          <a href="#contato" className="text-sm text-gray-300 hover:text-white transition-colors">
+            Contato
           </a>
           <Button
             asChild
@@ -97,6 +100,13 @@ export function Navbar() {
             onClick={() => setMobileMenuOpen(false)}
           >
             FAQ
+          </a>
+          <a
+            href="#contato"
+            className="text-base text-gray-300 hover:text-white py-2"
+            onClick={() => setMobileMenuOpen(false)}
+          >
+            Contato
           </a>
           <Button
             asChild

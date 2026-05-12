@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 
 export function CTAFinal() {
-  const whatsappUrl = "https://wa.me/5500000000000";
+  const whatsappUrl = "https://wa.me/558391325605";
 
   return (
     <section className="py-32 bg-[#0A0A0F] border-t border-white/5 relative overflow-hidden">

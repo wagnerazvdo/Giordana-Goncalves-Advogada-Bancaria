@@ -8,6 +8,7 @@ import { Diferenciais } from "@/components/Diferenciais";
 import { BuscaApreensao } from "@/components/BuscaApreensao";
 import { FAQ } from "@/components/FAQ";
 import { Depoimentos } from "@/components/Depoimentos";
+import { Contato } from "@/components/Contato";
 import { CTAFinal } from "@/components/CTAFinal";
 import { Footer } from "@/components/Footer";
 import { FloatingWhatsApp } from "@/components/FloatingWhatsApp";
@@ -26,6 +27,7 @@ function Home() {
       <BuscaApreensao />
       <FAQ />
       <Depoimentos />
+      <Contato />
       <CTAFinal />
       <Footer />
       

@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 
 export function BuscaApreensao() {
-  const whatsappUrl = "https://wa.me/5500000000000";
+  const whatsappUrl = "https://wa.me/558391325605";
 
   return (
     <section className="py-32 relative overflow-hidden bg-gradient-to-b from-[#0A0A0F] to-[#0D1B2A]">
