@@ -25,7 +25,7 @@ export function CTAFinal() {
           <Button
             asChild
             size="lg"
-            className="bg-primary hover:bg-primary/90 text-primary-foreground px-12 py-8 text-lg font-bold rounded-sm tracking-widest uppercase transition-transform hover:scale-[1.02]"
+            className="bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-6 md:px-12 md:py-8 text-base md:text-lg font-bold rounded-sm tracking-widest uppercase transition-transform hover:scale-[1.02] w-full sm:w-auto whitespace-normal h-auto"
           >
             <a href={whatsappUrl} target="_blank" rel="noreferrer">
               Solicitar análise do meu caso
