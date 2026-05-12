@@ -1,0 +1,10 @@
+{
+  "buildCommand": "pnpm --filter @workspace/giordana-landing run build",
+  "outputDirectory": "artifacts/giordana-landing/dist/public",
+  "installCommand": "pnpm install --frozen-lockfile",
+  "framework": null,
+  "env": {
+    "PORT": "3000",
+    "BASE_PATH": "/"
+  }
+}
