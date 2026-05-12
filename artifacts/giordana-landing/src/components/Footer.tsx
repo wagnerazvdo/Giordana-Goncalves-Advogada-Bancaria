@@ -12,7 +12,7 @@ export function Footer() {
             <img
               src="/logo-gg.png"
               alt="Giordana Gonçalves Advocacia"
-              className="h-32 w-auto mb-4 opacity-90"
+              className="w-48 h-auto mb-4 opacity-90"
             />
             <p className="text-gray-500 font-light mt-2 text-sm max-w-sm">
               Atendimento digital em todo o Brasil. Defesa estratégica em conflitos bancários e revisão de contratos.

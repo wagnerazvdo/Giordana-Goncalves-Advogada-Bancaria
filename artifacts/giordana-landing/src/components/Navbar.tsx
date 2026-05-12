@@ -25,11 +25,11 @@ export function Navbar() {
       }`}
     >
       <div className="container mx-auto px-4 md:px-8 flex items-center justify-between">
-        <a href="#" aria-label="Giordana Gonçalves Advocacia">
+        <a href="#" aria-label="Giordana Gonçalves Advocacia" className="block w-16 h-16 overflow-hidden">
           <img
             src="/logo-gg.png"
             alt="Giordana Gonçalves Advocacia"
-            className="h-16 w-auto"
+            className="w-full scale-[2.2] translate-y-[18%] object-top"
           />
         </a>
 
